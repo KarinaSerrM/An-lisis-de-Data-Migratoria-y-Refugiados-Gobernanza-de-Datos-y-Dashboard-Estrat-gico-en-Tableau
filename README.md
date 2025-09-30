@@ -51,17 +51,14 @@ Se centra en **gobernanza de datos, indicadores clave de movilidad humana y visu
 ## Tecnologías  
 
 - **Tableau v2025.1** → creación de dashboards estratégicos.  
-- **Excel / CSV** → preparación y depuración inicial de datasets.  
-- **Python (pandas, numpy, matplotlib)** → limpieza avanzada y validación estadística.  
+- **Excel / CSV** → preparación y depuración inicial de datasets.    
 - **GitHub** → control de versiones y portafolio.  
 
 ---
 
 ## Archivos Clave  
 
-- `Migración_v2025.1_v2025.1.twb` → archivo maestro del dashboard en Tableau.  
-- `datasets/` → carpeta con los datos crudos y transformados.  
-- `scripts/` → código en Python para limpieza y validación de datos.  
+- `Migración_v2025.twb` → archivo maestro del dashboard en Tableau.  
 - `README.md` → documentación del proyecto.  
 
 ---
