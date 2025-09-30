@@ -1,0 +1,2 @@
+# An-lisis-de-Data-Migratoria-y-Refugiados-Gobernanza-de-Datos-y-Dashboard-Estrat-gico-en-Tableau
+Este proyecto desarrolla un **dashboard interactivo en Tableau v2025.1** para analizar flujos de migración y situaciones de refugiados a nivel internacional.   Se centra en **gobernanza de datos, indicadores clave de movilidad humana y visualización estratégica** para apoyar en la toma de decisiones de organismos, instituciones y ONGs.  
