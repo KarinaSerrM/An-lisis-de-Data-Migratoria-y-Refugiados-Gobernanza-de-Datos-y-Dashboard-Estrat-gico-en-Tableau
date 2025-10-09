@@ -41,11 +41,6 @@ Se centra en **gobernanza de datos, indicadores clave de movilidad humana y visu
 - Revisión de consistencia de filtros y cálculos en Tableau.  
 - Feedback de usuarios potenciales (simulación de escenarios).  
 
-### Conclusiones y Próximos Pasos  
-- Insights sobre patrones de movilidad.  
-- Identificación de países críticos y tendencias emergentes.  
-- Propuesta de escalar el dashboard con series temporales y modelado predictivo.  
-
 ---
 
 ## Tecnologías  
